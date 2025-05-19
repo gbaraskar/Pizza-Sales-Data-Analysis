@@ -1,7 +1,4 @@
-# Pizza-Sales-Data-Analysis
-Here’s a concise and professional summary you can use in your GitHub repository for the **Pizza Sales Data Analysis Project** using SQL:
-
----
+*Pizza Sales Data Analysis Project*
 
 ### 🍕 Pizza Sales Data Analysis Project (SQL)
 
